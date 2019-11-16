@@ -4,7 +4,7 @@ public class ArithematicOperators {
 
 	public static void main(String[] args) {
 
-
+// note
 		//Arithematic operators
 		//Assignment operators
 		
